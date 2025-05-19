@@ -9,3 +9,4 @@ pub mod handle;
 pub mod perf;
 pub mod syscall;
 pub mod kallsyms;
+pub mod version;
