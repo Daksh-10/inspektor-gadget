@@ -6,3 +6,4 @@ pub mod params;
 pub mod config;
 pub mod map;
 pub mod handle;
+pub mod perf;
